@@ -1,0 +1,3 @@
+{
+  "__comment": "Manual Steam account id -> Twitch login overrides, e.g. \"479799201\": \"somestreamer\". Keys must be numeric 32-bit Steam account ids; non-numeric keys like this one are ignored."
+}
